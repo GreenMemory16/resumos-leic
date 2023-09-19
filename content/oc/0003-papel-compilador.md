@@ -34,7 +34,7 @@ Ao fazermos [linking](color:pink) de _object modules_
 resolve _labels_, que determinam o seu endereço, e corrigem a
 localização-dependente e referências externas.
 Para além disso, não podemos deixar as dependências de localização para
-corrigirem a mudança de carregador, contudo, com memória vistual,
+corrigirem a mudança de carregador, contudo, com memória virtual,
 tal não é necessário visto que o programa pode ser carregado para uma
 localização absoluta no espaço de memória virtual.
 
